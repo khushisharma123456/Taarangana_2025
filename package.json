@@ -2,6 +2,10 @@
   "name": "taarangana2025",
   "private": true,
   "version": "0.0.0",
+  "description": "Taarangana 2025 Fest Website",
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
